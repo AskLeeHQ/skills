@@ -8,6 +8,27 @@ metadata: {"clawdbot":{"emoji":"💬","requires":{"env":["WHATSAPP_TOKEN","WHATS
 
 Business messaging on WhatsApp.
 
+## 🧠 Content Humanization (for custom messages)
+
+WhatsApp is personal. People hate corporate bot-speak in their DMs.
+
+**Don't sound like:**
+- "Dear valued customer, we appreciate your inquiry..."
+- "Thank you for reaching out! We're here to help."
+- "Your satisfaction is our priority!"
+- Excessive emojis 😊🙏✨💯
+
+**Sound like a human:**
+- "Hey! Got your message about X..."
+- "Quick update on that:"
+- Keep it casual but professional
+- Short sentences, no walls of text
+- Use names when you have them
+
+**Template tips:**
+- Templates are reviewed by Meta, so they're formal. That's ok.
+- Custom responses between templates = where personality matters
+
 ## Environment
 
 ```bash

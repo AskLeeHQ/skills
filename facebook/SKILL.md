@@ -8,6 +8,24 @@ metadata: {"clawdbot":{"emoji":"👤","requires":{"env":["FACEBOOK_ACCESS_TOKEN"
 
 Social media platform (Pages API).
 
+## 🧠 Content Humanization (MANDATORY)
+
+Facebook audiences are mixed but AI-slop is universally annoying.
+
+**Avoid:**
+- Corporate speak: "We're thrilled to announce..."
+- Emojis on every line 🚀💡✨🔥
+- "Here are 5 reasons why..."
+- Generic engagement bait: "What do you think? Comment below!"
+- Overly polished language
+
+**Write naturally:**
+- Conversational tone, like texting a friend
+- One thought per post, not a thesis
+- Questions that you'd actually want answered
+- Share stories, not bullet points
+- Match your audience's language level
+
 ## Environment
 
 ```bash
